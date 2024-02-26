@@ -47,7 +47,7 @@ body {
 
 
 .Group-7 {
-    width: 240px;
+    width: 300px;
     height: 301px;
     object-fit: contain;
     position: absolute;
@@ -229,4 +229,7 @@ body {
 	font-size: 18px;
 	font-family: Nunito Sans;
 	font-style: normal;
+}
+#patty, #onion, #lettuce, #tomato, #cheese{
+    display: none;
 }
